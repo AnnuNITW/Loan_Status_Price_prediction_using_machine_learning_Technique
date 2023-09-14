@@ -1,6 +1,8 @@
 # Loan_Status_Price_prediction_using_machine_learning_Technique
 Loan-Status-Prediction-using-Support-Vector-Machine
 Hello Everyone, I hope you are doing well. Ever wondered, how great would it be, if we could predict, whether our request for a loan, will be approved or not, simply by the use of machine learning, from the ease and comfort of your home? I am doing that with the help of a Machine Learning model named the Support Vector Machine.
+![image](https://github.com/AnnuNITW/Loan_Status_Price_prediction_using_machine_learning_Technique/assets/115100166/a0bb0ad4-23e5-48c2-a011-dc9ab879cf0c)
+
 
 
 
